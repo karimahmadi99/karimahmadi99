@@ -1,48 +1,9 @@
-### Hi there 👋
+من کی هستم؟👨‍🎓
 
-## My Activity
-<img src="https://github-readme-stats.vercel.app/api?username=karimahmadi99&show_icons=true&theme=radical" />
+<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
 
-## My Projects Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimahmadi99&Donut=true)
+<h2 align="center">سلام🖐 من کریم احمدی هستم</h2>
 
-_ This *text* is bold
-_ This __text__ is bold
-_ This ***text*** is bold
-_ This ___text___ is bold
-
----
-> my name is `amir`
->> im form `iran`
-
----
-```diff
-- print("hello")
-
-+ print("amir")
-```
----
-
-<ul>
-  <li>python</li>
-  <li>django</li>
-  <li>html</li>
-  <li>css</li>
-</ul>
----
-<or>
-  <li>python</li>
-  <li>django</li>
-  <li>html</li>
-  <li>css</li>
-</or>
----
-
-## tables
-| col 1 | col 2 | col 3 |
-| -- | -- | -- |
-| row 1 col 1 | row 1 clo 2 | row 1 col 3 |
-| row 2 col 1 | row 2 clo 2 | row 2 col 3 |
-| row 3 col 1 | row 3 clo 2 | row 3 col 3 |
-| row 4 col 1 | row 4 clo 2 | row 4 col 3 |
-| row 5 col 1 | row 5 clo 2 | row 5 col 3 |
+<p align="center">
+  برنامه نویس دنیای بک اند 👨‍💻 دانشجوی رشته مهندسی کامپیوتر ✍ و عاشق دنیای صفرو یک 0,1
+</p>
