@@ -33,6 +33,6 @@
   <img src="https://img.shields.io/badge/instagram-@karimahmadi99-red?style=fiat&logo=instagram">
 </a>
 
-<a href="https://t.em/A_ypp0">
+<a href="https://t.me/A_ypp0">
   <img src="https://img.shields.io/badge/telegram-@A_ypp0-blue?style=fiat&color-red&logo=telegram">
 </a>
