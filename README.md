@@ -1,42 +1,32 @@
-من کی هستم؟👨‍🎓
+<h2>Hi There I'm Karim Ahmadi 🖐</h2>
 
-<img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="just for fun :D">
+<h3>👨‍💻 &nbsp; About Me</h3>
 
-<h2 align="center">سلام🖐 من کریم احمدی هستم</h2>
+- I'm learning
+- I'm a student
+- I am a student of computer engineering, software branch
+- I am learning Django
+- Love the world of zero and one :)
 
-<p align="center">
-  برنامه نویس دنیای بک اند 👨‍💻 دانشجوی رشته مهندسی کامپیوتر ✍ و عاشق دنیای صفرو یک 0,1
-</p>
+<h3>👨‍💻 &nbsp; Tech Stack</h3>
+
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/django-333333?style=flat&logo=django)
+![MySQL](https://img.shields.io/badge/mysql-333333?style=flat&logo=mysql)
+![HTML5](https://img.shields.io/badge/html5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-333333?style=flat&logo=css3)
+![GitHub](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 <br />
 
-<h2 aling"right"> ابزار هایی که استفاده میکنم 💪</h2>
+<h3>Github Stats</h3>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://github.com/karimahmadi99">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimahmadi99&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimahmadi99&Demo=true">
+</a>
 
+<h2>Connct My ☎</h2>
 
-
-<h2 aling"right">تماس با من</h2>
-<a href="http://instagram.com/k_ahmadi10"><img width="50px" height="50px" aling="left" src="https://github.com/karimahmadi99/karimahmadi99/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="http://t.me/A_ypp0"><img width="50px" height="50px" aling="left" src="https://github.com/karimahmadi99/karimahmadi99/blob/main/icons8-telegram-48.png?raw=true" alt="telegram" /></a>
-
- <br />
-
- <h2 aling="right">👨‍💻الان به چه کارهایی مشغول هستم</h2>
- <h4 aling="eight">👨‍🎓درحال تحصیل: دانشجوی رشته مهندسی کامپیوتر (نرم افزار)</h4>
- <h4 aling="eight">🕵️‍♂️یادگیری جنگو</h4>
- <h4 aling="eight">🕵️‍♂️یادگیری css and html</h4>
-
- <br />
- 
- <h2 aling="right">الان دارم با اینا کار میکنم</h2>
-
-<h4 aling="left">python | 60%</h4> <img width="300" src="https://github.com/karimahmadi99/karimahmadi99/blob/main/bar.png?raw=true">
-
-<h4 aling="left">django | 70%</h4> <img width="350" src="https://github.com/karimahmadi99/karimahmadi99/blob/main/bar.png?raw=true">
-
-<h4 aling="left">html and css | 35%</h4> <img width="175" src="https://github.com/karimahmadi99/karimahmadi99/blob/main/bar.png?raw=true">
+<img src="https://img.shields.io/badge/instagram-@karimahmadi99?style=fiat&logo=instagram">
+<img src="https://img.shields.io/badge/telegram-@karimahmadi99?style=fiat&logo=telegram">
