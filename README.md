@@ -28,6 +28,11 @@
 
 <h2>Connct My ☎</h2>
 
-<img src="https://img.shields.io/badge/instagram-@karimahmadi99-red?style=fiat&logo=instagram">
-<img src="https://img.shields.io/badge/telegram-@A_ypp0-blue?style=fiat&color-red&logo=telegram">
 
+<a href="https://instagram.com/k_ahmadi10">
+  <img src="https://img.shields.io/badge/instagram-@karimahmadi99-red?style=fiat&logo=instagram">
+</a>
+
+<a href="https://t.em/A_ypp0">
+  <img src="https://img.shields.io/badge/telegram-@A_ypp0-blue?style=fiat&color-red&logo=telegram">
+</a>
