@@ -22,6 +22,6 @@
 
 <h2 aling"right">تماس با من</h2>
 <a href="http://instagram.com/k_ahmadi10"><img aling="left" src="https://github.com/karimahmadi99/karimahmadi99/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
-<a href="http://t.me.com/@A_ypp0"><img aling="left" src="https://github.com/karimahmadi99/karimahmadi99/blob/main/icons8-telegram-48.png?raw=true" alt="telegram" /></a>
+<a href="http://t.me/A_ypp0"><img aling="left" src="https://github.com/karimahmadi99/karimahmadi99/blob/main/icons8-telegram-48.png?raw=true" alt="telegram" /></a>
 
  
